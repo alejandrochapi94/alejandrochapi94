@@ -16,7 +16,7 @@
 - :school: Ingeniero `Mecatrónico`
 - :technologist: Apasionado por usar el software como solución para cualquier `problema`.
 - :computer: Competente en múltiples lenguajes y tecnologías, incluyendo `Python`, `Java`, `JavaScript`, `SQL`, `AWS`, y `más`.
-- - :office: Experiencia con bases de datos como `Microsoft SQL Server`, `MariaDB`, y `MongoDB`.
+- :office: Experiencia con bases de datos como `Microsoft SQL Server`, `MariaDB`, y `MongoDB`.
 - :gear: Familiaridad con herramientas como `VSCode`, `PyCharm`, `Node.js`, y frameworks como `Flask` y `Django`.
 - :computer: Experto en sistemas operativos como `Linux` y `Windows`y sistemas de `control de versiones con Git y GitHub`.
 
@@ -30,7 +30,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
